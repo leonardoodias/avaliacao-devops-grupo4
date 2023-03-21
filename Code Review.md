@@ -16,6 +16,6 @@ O Code Review deve ser um processo natural dentro do fluxo de desenvolvimento. E
 
 '**Detalhes e referências**':
 
-[Code Review Guidelines for Humans] (https://phauer.com/2018/code-review-guidelines/)
-[Best Practices for Code Review] (https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-[A Guide to Effective Pull Request Reviews] (https://nebulab.com/blog/a-guide-to-effective-pull-request-reviews)
+- [Code Review Guidelines for Humans] (https://phauer.com/2018/code-review-guidelines/)
+- [Best Practices for Code Review] (https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+- [A Guide to Effective Pull Request Reviews] (https://nebulab.com/blog/a-guide-to-effective-pull-request-reviews)

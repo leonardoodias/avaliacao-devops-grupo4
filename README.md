@@ -1,9 +1,6 @@
 # Empresa group4-devops
-# Empresa group4-devops
 
 Este repositório tem como finalidade gerenciar os entregavéis de tarefas da cadeira de DevOps, ministrado pelo professor Alvaro Maia, para o curso ***Especialização ETA 2022.B***.
-Este repositório tem como finalidade gerenciar os entregavéis de tarefas da cadeira de DevOps, ministrado pelo professor Alvaro Maia, para o curso ***Especialização ETA 2022.B***.
-
 
 # Tarefas - Prazo para entrega: ***01/04/2023***
 - [x] Montem seus grupos e enviem um e-mail para [abvmb@cesar.school](abvmb@cesar.school) com a lista de [integrantes](integrantes.txt).
