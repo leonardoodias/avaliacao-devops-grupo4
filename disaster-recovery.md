@@ -1,7 +1,9 @@
-Prompt 01:
+# Disaster Recovery
+
+## Prompt 01:
 "Como um estudante de desenvolvimento web, preciso elaborar 5 cenários possíveis para recuperação de desastre para uma plataforma de streaming de vídeo utilizando os serviços da AWS."
 
-Resposta 01:
+## Resposta 01:
 "Como estudante de desenvolvimento web, você pode criar cenários possíveis para recuperação de desastres para uma plataforma de streaming de vídeo usando os serviços da AWS, como a seguir:
 1. Falha no servidor de banco de dados: Nesse cenário, um dos servidores de banco de dados da plataforma de streaming de vídeo falha, impedindo que os usuários acessem o conteúdo. Para recuperar o desastre, pode ser necessário usar o Amazon RDS para configurar um banco de dados de recuperação de desastre, que permita que os usuários acessem o conteúdo sem interrupção.
 2. Ataque DDoS: Nesse cenário, a plataforma de streaming de vídeo é alvo de um ataque DDoS, tornando a plataforma inacessível aos usuários. Para recuperar o desastre, pode ser necessário usar o Amazon CloudFront para implementar um conjunto de regras de segurança que permitam filtrar o tráfego mal-intencionado e manter a plataforma disponível.
@@ -9,12 +11,12 @@ Resposta 01:
 4. Erro humano: Nesse cenário, um erro humano leva a uma perda de dados na plataforma de streaming de vídeo. Para recuperar o desastre, pode ser necessário usar o Amazon S3 para implementar backups regulares de dados críticos, permitindo que os usuários acessem o conteúdo sem interrupção.
 5. Problemas de hardware: Nesse cenário, há problemas de hardware em um dos servidores da plataforma de streaming de vídeo, impedindo que os usuários acessem o conteúdo. Para recuperar o desastre, pode ser necessário usar o Amazon EC2 para configurar um servidor de recuperação de desastre que permita que os usuários acessem o conteúdo sem interrupção."
 
-===========================================================================================================================================================================================================================================
 
-Prompt 02:
+
+## Prompt 02:
 "Como um estudante de desenvolvimento web, preciso elaborar 5 cenários possíveis para recuperação de desastre para uma plataforma de streaming de vídeo utilizando os serviços cloud da AWS."
 
-Resposta 02:
+## Resposta 02:
 "Como estudante de desenvolvimento web, você pode criar cenários possíveis para recuperação de desastres para uma plataforma de streaming de vídeo usando os serviços cloud da AWS, como a seguir:
  1. Falha no servidor de aplicação: Nesse cenário, um dos servidores de aplicação da plataforma de streaming de vídeo falha, impedindo que os usuários acessem o conteúdo. Para recuperar o desastre, pode ser necessário usar o Amazon Elastic Beanstalk para configurar um ambiente de recuperação de desastre, que permita que os usuários acessem o conteúdo sem interrupção.
  2. Ataque cibernético: Nesse cenário, a plataforma de streaming de vídeo é alvo de um ataque cibernético, tornando a plataforma inacessível aos usuários. Para recuperar o desastre, pode ser necessário usar o Amazon Web Application Firewall (WAF) para implementar um conjunto de regras de segurança que permitam filtrar o tráfego mal-intencionado e manter a plataforma disponível.
@@ -22,12 +24,10 @@ Resposta 02:
  4. Desastre natural: Nesse cenário, ocorre um desastre natural, como um terremoto ou uma inundação, que afeta a infraestrutura da plataforma de streaming de vídeo. Para recuperar o desastre, pode ser necessário usar o Amazon Route 53 para redirecionar o tráfego para um ambiente de recuperação de desastre em outra região geográfica.
  5. Problema de conectividade: Nesse cenário, ocorre um problema de conectividade que impede que os usuários acessem a plataforma de streaming de vídeo. Para recuperar o desastre, pode ser necessário usar o Amazon CloudFront para implementar uma rede de entrega de conteúdo distribuída que permite que os usuários acessem o conteúdo sem interrupção, independentemente da localização geográfica."
 
-===========================================================================================================================================================================================================================================
-
-Prompt 03
+## Prompt 03
 "Como um estudante de desenvolvimento web, preciso elaborar 5 cenários possíveis para recuperação de desastre para uma plataforma de streaming de vídeo desenvolvida em uma arquitetura distribuída utilizando os serviços cloud da AWS."
 
-Resposta 03:
+## Resposta 03:
 "Como estudante de desenvolvimento web, você pode elaborar os seguintes cenários possíveis para recuperação de desastre para uma plataforma de streaming de vídeo desenvolvida em uma arquitetura distribuída utilizando os serviços cloud da AWS:
 1. Recuperação de desastre de falha de zona de disponibilidade: Em caso de falha em uma das zonas de disponibilidade da AWS, a plataforma de streaming deve ter um plano de recuperação de desastre que permita transferir os recursos para outras zonas de disponibilidade. Isso pode incluir a replicação de dados e recursos em várias zonas de disponibilidade e o uso de serviços de balanceamento de carga para redirecionar o tráfego para instâncias de serviço em outras zonas de disponibilidade.
 2. Recuperação de desastre de falha de região: Em caso de falha em uma região inteira da AWS, a plataforma de streaming deve ter um plano de recuperação de desastre que permita transferir os recursos para outra região. Isso pode incluir a replicação de dados e recursos em várias regiões da AWS e o uso de serviços de failover de DNS para redirecionar o tráfego para a região alternativa.
