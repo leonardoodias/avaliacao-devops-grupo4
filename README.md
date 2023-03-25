@@ -8,7 +8,12 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 - [x] Criar um repositório no github e enviar o link por e-mail, pode ser no mesmo e-mail dos [integrantes](integrantes.txt).
 - [ ] Cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento deste software.
 - [ ] Defina um padrão para nomenclatura de issues, resumo de como serão feitos os testes, como será usada a automação de testes e as estratégias de deploy.
+    - [Padrão de Issue](https://github.com/leonardoodias/group4-devops/raw/Default_Issue.md)
+    - [Estratégia de Deployment] 
+    
 - [x] Comentem sobre a importância de usar code review!
+    - [Code Review](https://github.com/leonardoodias/group4-devops/raw/Code_Review.md)
+
 - [ ] Montem uma timeline contendo os pontos:
   - Planejamento
   - Desenvolvimento
