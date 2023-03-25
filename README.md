@@ -7,13 +7,11 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 - [x] Escolha um app para tratar como sendo o produto de sua empresa, pode ser netflix, amazon, spotify ou qualquer outro.
 - [x] Criar um repositório no github e enviar o link por e-mail, pode ser no mesmo e-mail dos [integrantes](integrantes.txt).
 - [ ] Cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento deste software.
-- [ ] Defina um padrão para nomenclatura de issues, resumo de como serão feitos os testes, como será usada a automação de testes e as estratégias de deploy.
+- [x] Defina um padrão para nomenclatura de issues, resumo de como serão feitos os testes, como será usada a automação de testes e as estratégias de deploy.
     - [Padrão de Issue](https://github.com/leonardoodias/group4-devops/raw/Default_Issue.md)
-    - [Estratégia de Deployment] 
-    
+    - [Estratégia de Deployment](https://github.com/leonardoodias/group4-devops/raw/Estratégia_De_Deployment.md)  
 - [x] Comentem sobre a importância de usar code review!
     - [Code Review](https://github.com/leonardoodias/group4-devops/raw/Code_Review.md)
-
 - [ ] Montem uma timeline contendo os pontos:
   - Planejamento
   - Desenvolvimento
@@ -22,9 +20,9 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
   - Deploy em produção
 - [ ] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
 - [ ] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
-
 - [x] Criação de Branch Develop
 - [x] Definição de Padronização 
+    - [Git](https://github.com/leonardoodias/group4-devops/raw/Git.md)
 - [x] Faça um pequeno diagrama dos componentes que sua solução usaria em um provedor de cloud Recomendo usar o draw.io e salvar no github. 
   - [Diagrama dos componentes](https://drive.google.com/file/d/1pMk84ukv0kH4RIXaeS4kBhf_eeUMh_RP/view?usp=sharing)
 - [ ] Preparem um documento breve de disaster recovery. Este documento deve conter 5 casos, as formas de como identificá-los e as estratégias para recuperar o ambiente.

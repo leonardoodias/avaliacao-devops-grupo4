@@ -1,7 +1,8 @@
 🔥 
 <hr>
 
-# Padrões de Projeto 
+# **Padrões de Projeto** 
+
   - [1. Git](#1-git)
     - [1.1 Algumas regras do Git](#11-algumas-regras-do-git)
     - [1.2 Git workflow](#12-git-workflow)
@@ -9,12 +10,12 @@
 
     <a name="git"></a>
 
-## 1. Git
+## **1. Git**
 
 ![Git](/images/branching.png)
 <a name="some-git-rules"></a>
 
-### 1.1 Algumas regras do Git
+### **1.1 Algumas regras do Git**
 
 Essas são algumas regras do Git para manter em mente:
 
@@ -61,7 +62,8 @@ Essas são algumas regras do Git para manter em mente:
   > Protege suas branchs que devem, em teoria, estarem prontas para irem para produção de receberem códigos e mudanças irreversíveis. Leia mais sobre... [Github](https://help.github.com/articles/about-protected-branches/), [Bitbucket](https://confluence.atlassian.com/bitbucketserver/using-branch-permissions-776639807.html) e [GitLab](https://docs.gitlab.com/ee/user/project/protected_branches.html)
 <a name="git-workflow"></a>
 
-### 1.2 Git workflow
+
+### **1.2 Git workflow**
 
 Devido a maioria dos motivos listados acima, nos usamos [Feature-branch-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow) com [Interactive Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing) e alguns pontos do [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow) (nomeação e ter uma develop branch). Os principais passos são:
 
@@ -132,10 +134,10 @@ Devido a maioria dos motivos listados acima, nos usamos [Feature-branch-workflow
   ```sh
   git fetch -p && for branch in `git branch -vv --no-color | grep ': gone]' | awk '{print $1}'`; do git branch -D $branch; done
   ```
-
 <a name="writing-good-commit-messages"></a>
 
-### 1.3 Escrevendo boas mensagens de commit
+
+### **1.3 Escrevendo boas mensagens de commit**
 
 Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar com Git e colaborar com outros seja muito mais fácil. Aqui estão algumas boas práticas ([fonte](https://chris.beams.io/posts/git-commit/#seven-rules)):
 
