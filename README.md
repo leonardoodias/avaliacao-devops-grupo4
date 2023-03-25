@@ -14,6 +14,7 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 - [x] Comentem sobre a importância de usar code review!
     - [Code Review](code-review.md)
 - [X] Montem uma timeline contendo os pontos:
+    - [Timeline Processo](timeline-processo.md)
   - Planejamento
   - Desenvolvimento
   - Geração de build
