@@ -1,3 +1,7 @@
+<hr>
+
+# **Importância do Code Review** 
+
 O uso de '**Code Review**' é uma prática altamente recomendada para equipes de desenvolvimento de software que desejam melhorar a qualidade do seu código e aumentar a eficiência do processo de desenvolvimento.
 
 O Code Review (ou revisão de código) é um processo no qual um ou mais desenvolvedores examinam o código-fonte escrito por outros desenvolvedores. A importância de usar o Code Review está relacionada a diversos benefícios que essa prática pode trazer, tais como:

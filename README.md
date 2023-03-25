@@ -5,6 +5,7 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 # Tarefas - Prazo para entrega: ***01/04/2023***
 - [x] Montem seus grupos e enviem um e-mail para [abvmb@cesar.school](abvmb@cesar.school) com a lista de [integrantes](integrantes.md).
 - [x] Escolha um app para tratar como sendo o produto de sua empresa, pode ser netflix, amazon, spotify ou qualquer outro.
+    - [Sobre StartPlus](sobre_starplus.md)
 - [x] Criar um repositório no github e enviar o link por e-mail, pode ser no mesmo e-mail dos [integrantes](integrantes.md).
 - [x] Cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento deste software.
   - [Padrões de código e nomenclatura](padrao-de-projetos.md)
