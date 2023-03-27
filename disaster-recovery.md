@@ -1,5 +1,6 @@
 # Disaster Recovery
 
+<hr>
 ## Prompt 01:
 "Como um estudante de desenvolvimento web, preciso elaborar 5 cenários possíveis para recuperação de desastre para uma plataforma de streaming de vídeo utilizando os serviços da AWS."
 
