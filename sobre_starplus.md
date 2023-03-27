@@ -11,6 +11,6 @@ O serviço tem estreias de séries de televisão e filmes exclusivos produzidos 
 
 O serviço também tem uma programação original exclusiva do Star (o serviço complementar do Disney+ no Canadá, Europa Ocidental e partes da Ásia-Pacífico), além de uma coleção de produções originais da região.
 
-
+<hr>
 
 
