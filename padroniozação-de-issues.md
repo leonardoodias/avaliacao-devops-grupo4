@@ -1,7 +1,7 @@
 # Documento de Padrões de Issue e Nomenclatura para Desenvolvimento de Software
 
 Este documento descreve o padrão de nomenclatura e informações que devem ser incluídas em cada issue no desenvolvimento de software, a fim de melhorar a comunicação e o gerenciamento de projetos.
-
+<hr>
 
 ## Padrão da Issue
 

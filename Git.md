@@ -1,8 +1,7 @@
 🔥 
-<hr>
 
 # **Padrões de Projeto** 
-
+<hr>
   - [1. Git](#1-git)
     - [1.1 Algumas regras do Git](#11-algumas-regras-do-git)
     - [1.2 Git workflow](#12-git-workflow)

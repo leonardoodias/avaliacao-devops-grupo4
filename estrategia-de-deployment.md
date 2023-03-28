@@ -1,5 +1,7 @@
 # **Estratégia de Deployment** 
 
+<hr>
+
 Uma estratégia de deployment com quality gates para ambiente de cloud (nuvem) é um processo de implantação que utiliza critérios de qualidade para garantir que o código implantado atenda aos padrões esperados. A seguir, descrevo uma estratégia de deployment com quality gates e exemplos de ferramentas que podem ser utilizadas em cada etapa.
 
 ## **Desenvolvimento do código:**
