@@ -21,7 +21,7 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
     - Deploy em ambiente de homologação
     - Deploy em produção
 - [x] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
-  - [Plano de teste](plano-de-testes.md)
+  - [Plano de teste](plano-de-teste.md)
 - [ ] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
 - [x] Criação de Branch Develop
 - [x] Definição de Padronização 
