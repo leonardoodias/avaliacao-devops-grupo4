@@ -14,12 +14,14 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 - [x] Comentem sobre a importância de usar code review!
     - [Code Review](code-review.md)
 - [ ] Montem uma timeline contendo os pontos:
-  - Planejamento
-  - Desenvolvimento
-  - Geração de build
-  - Deploy em ambiente de homologação
-  - Deploy em produção
-- [ ] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
+  - [Timeline](https://misty-bun-830.notion.site/46699dc084244e9088e8447a580b20d8?v=4fb10bd1cd8c4a26936819f55fccb184)
+    - Planejamento
+    - Desenvolvimento
+    - Geração de build
+    - Deploy em ambiente de homologação
+    - Deploy em produção
+- [x] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
+  - [Plano de teste](plano-de-testes.md)
 - [ ] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
 - [x] Criação de Branch Develop
 - [x] Definição de Padronização 
