@@ -14,7 +14,8 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
     - [Estratégia de Deployment](estrategia-de-deployment.md)  
 - [x] Comentem sobre a importância de usar code review!
     - [Code Review](code-review.md)
-- [ ] Montem uma timeline contendo os pontos:
+- [X] Montem uma timeline contendo os pontos:
+    - [Timeline Processo](timeline-processo.md)
   - Planejamento
   - Desenvolvimento
   - Geração de build
