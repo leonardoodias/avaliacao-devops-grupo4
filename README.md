@@ -5,6 +5,7 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 # Tarefas - Prazo para entrega: ***01/04/2023***
 - [x] Montem seus grupos e enviem um e-mail para [abvmb@cesar.school](abvmb@cesar.school) com a lista de [integrantes](integrantes.md).
 - [x] Escolha um app para tratar como sendo o produto de sua empresa, pode ser netflix, amazon, spotify ou qualquer outro.
+    - [Sobre StartPlus](sobre_starplus.md)
 - [x] Criar um repositório no github e enviar o link por e-mail, pode ser no mesmo e-mail dos [integrantes](integrantes.md).
 - [x] Cite padrões de código e nomenclatura que poderiam ser usados no desenvolvimento deste software.
   - [Padrões de código e nomenclatura](padrao-de-projetos.md)
@@ -13,13 +14,13 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
     - [Estratégia de Deployment](estrategia-de-deployment.md)  
 - [x] Comentem sobre a importância de usar code review!
     - [Code Review](code-review.md)
-- [ ] Montem uma timeline contendo os pontos:
-  - [Timeline](https://misty-bun-830.notion.site/46699dc084244e9088e8447a580b20d8?v=4fb10bd1cd8c4a26936819f55fccb184)
-    - Planejamento
-    - Desenvolvimento
-    - Geração de build
-    - Deploy em ambiente de homologação
-    - Deploy em produção
+- [X] Montem uma timeline contendo os pontos:
+    - [Timeline Processo](timeline-processo.md)
+  - Planejamento
+  - Desenvolvimento
+  - Geração de build
+  - Deploy em ambiente de homologação
+  - Deploy em produção
 - [x] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
   - [Plano de teste](plano-de-teste.md)
 - [ ] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
@@ -30,5 +31,5 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
   - [Diagrama dos componentes](https://drive.google.com/file/d/1pMk84ukv0kH4RIXaeS4kBhf_eeUMh_RP/view?usp=sharing)
 - [x] Preparem um documento breve de disaster recovery. Este documento deve conter 5 casos, as formas de como identificá-los e as estratégias para recuperar o ambiente.
   - [Disaster recovery](disaster-recovery)
-- [ ] Os documentos podem ser agrupados em só um doc, idealmente ficam os arquivos separados. Os arquivos devem ser enviados para o git.
+- [x] Os documentos podem ser agrupados em só um doc, idealmente ficam os arquivos separados. Os arquivos devem ser enviados para o git.
 - [ ] ***Atividade Bônus***, tente montar uma pipeline básica com o [Jenkins](https://www.jenkins.io). O job deve baixar algo do github e executar alguma operação. Pode ser a execução de testes automáticos. Outra opção seria somente um ajuste de versão (editar um arquivo) e fazer o push da mudança para o github. A entrega pode ser os prints das telas de configuração do job e dos outputs. Esta atividade conta pontos extra, não é obrigatória. 
