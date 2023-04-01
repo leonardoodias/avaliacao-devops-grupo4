@@ -16,14 +16,10 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
     - [Code Review](code-review.md)
 - [X] Montem uma timeline contendo os pontos:
     - [Timeline Processo](timeline-processo.md)
-  - Planejamento
-  - Desenvolvimento
-  - Geração de build
-  - Deploy em ambiente de homologação
-  - Deploy em produção
 - [x] Expliquem onde o software poderia ser testado e de que forma poderia ser testado.
   - [Plano de teste](plano-de-teste.md)
-- [ ] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
+- [x] Usando a mesma timeline, defina uma estratégia de CI/CD para a solução, descreva brevemente como faria para automatizar cada passo.
+  - [Estratégia de CI/CD](estrategia-ci-cd.md)
 - [x] Criação de Branch Develop
 - [x] Definição de Padronização 
     - [Git](git.md)
@@ -32,4 +28,6 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
 - [x] Preparem um documento breve de disaster recovery. Este documento deve conter 5 casos, as formas de como identificá-los e as estratégias para recuperar o ambiente.
   - [Disaster recovery](disaster-recovery)
 - [x] Os documentos podem ser agrupados em só um doc, idealmente ficam os arquivos separados. Os arquivos devem ser enviados para o git.
-- [ ] ***Atividade Bônus***, tente montar uma pipeline básica com o [Jenkins](https://www.jenkins.io). O job deve baixar algo do github e executar alguma operação. Pode ser a execução de testes automáticos. Outra opção seria somente um ajuste de versão (editar um arquivo) e fazer o push da mudança para o github. A entrega pode ser os prints das telas de configuração do job e dos outputs. Esta atividade conta pontos extra, não é obrigatória. 
+- [x] ***Atividade Bônus***, tente montar uma pipeline básica com o [Jenkins](https://www.jenkins.io). O job deve baixar algo do github e executar alguma operação. Pode ser a execução de testes automáticos. Outra opção seria somente um ajuste de versão (editar um arquivo) e fazer o push da mudança para o github. A entrega pode ser os prints das telas de configuração do job e dos outputs. Esta atividade conta pontos extra, não é obrigatória. 
+  - [Pipeline](https://youtu.be/GDcPWukxADg)
+  - [Jenkinsfile](Jenkinsfile)
