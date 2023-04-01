@@ -20,7 +20,7 @@ Utilize um fluxo de trabalho baseado em ramificações (branching workflow), com
 ### Geração de build:
 - Utilize ferramentas de automação, como o Jenkins ou o GitLab CI, para criar automaticamente builds do código após a sua conclusão.
 Realize o empacotamento de dependências e bibliotecas necessárias ao projeto, para que o processo de deploy seja mais rápido e eficiente.
-Configure scripts de build para testar a integridade do código e garantir que o build seja seguro para ser implantado.
+- Configure scripts de build para testar a integridade do código e garantir que o build seja seguro para ser implantado.
 
 ### Deploy em ambiente de homologação:
 - Utilize um ambiente de homologação, que seja idêntico ao ambiente de produção, para testar as alterações em um ambiente controlado e seguro.
