@@ -22,11 +22,11 @@ Este repositório tem como finalidade gerenciar os entregavéis de tarefas da ca
   - [Estratégia de CI/CD](estrategia-ci-cd.md)
 - [x] Criação de Branch Develop
 - [x] Definição de Padronização 
-    - [Git](git.md)
+    - [Git](Git.md)
 - [x] Faça um pequeno diagrama dos componentes que sua solução usaria em um provedor de cloud Recomendo usar o draw.io e salvar no github. 
   - [Diagrama dos componentes](https://drive.google.com/file/d/1pMk84ukv0kH4RIXaeS4kBhf_eeUMh_RP/view?usp=sharing)
 - [x] Preparem um documento breve de disaster recovery. Este documento deve conter 5 casos, as formas de como identificá-los e as estratégias para recuperar o ambiente.
-  - [Disaster recovery](disaster-recovery)
+  - [Disaster recovery](disaster-recovery.md)
 - [x] Os documentos podem ser agrupados em só um doc, idealmente ficam os arquivos separados. Os arquivos devem ser enviados para o git.
 - [x] ***Atividade Bônus***, tente montar uma pipeline básica com o [Jenkins](https://www.jenkins.io). O job deve baixar algo do github e executar alguma operação. Pode ser a execução de testes automáticos. Outra opção seria somente um ajuste de versão (editar um arquivo) e fazer o push da mudança para o github. A entrega pode ser os prints das telas de configuração do job e dos outputs. Esta atividade conta pontos extra, não é obrigatória. 
   - [Pipeline](https://youtu.be/GDcPWukxADg)
